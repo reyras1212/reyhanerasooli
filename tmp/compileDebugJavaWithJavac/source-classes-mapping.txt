@@ -1,0 +1,35 @@
+com/example/falhafez/faal.java
+ com.example.falhafez.faal
+ com.example.falhafez.faal$1
+ com.example.falhafez.faal$2
+ com.example.falhafez.faal$3
+com/example/falhafez/falapi.java
+ com.example.falhafez.falapi
+com/example/falhafez/DataModel.java
+ com.example.falhafez.DataModel
+Network/FalApi.java
+ Network.FalApi
+com/example/falhafez/shaerapi.java
+ com.example.falhafez.shaerapi
+com/example/falhafez/MainActivity2.java
+ com.example.falhafez.MainActivity2
+com/example/falhafez/Activityshaer.java
+ com.example.falhafez.Activityshaer
+ com.example.falhafez.Activityshaer$1
+com/example/falhafez/BuildConfig.java
+ com.example.falhafez.BuildConfig
+com/example/falhafez/modelfal.java
+ com.example.falhafez.modelfal
+Network/MyApiCall.java
+ Network.MyApiCall
+com/example/falhafez/poets.java
+ com.example.falhafez.poets
+model/Faal.java
+ model.Faal
+com/example/falhafez/Adaptershaer.java
+ com.example.falhafez.Adaptershaer
+ com.example.falhafez.Adaptershaer$MyViewHolder
+com/example/falhafez/MainActivity.java
+ com.example.falhafez.MainActivity
+model/poets.java
+ model.poets
